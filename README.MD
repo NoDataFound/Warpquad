@@ -22,12 +22,8 @@ WarpQuad Build
 
 * These were a huge help - http://www.rcgroups.com/forums/showthread.php?t=2176239
 
-## How it Works
-More to come
+## Flight Vids
+* With Training wheels on: https://www.youtube.com/watch?v=gmn1cpd4ktM
 
 ## More Info
-* http://raspi.tv/2013/8-x-8-led-array-driven-by-max7219-on-the-raspberry-pi-via-python
-* http://soundcloud.com/mau5trap
-* http://SecKC.org
-* http://blog.eikeland.se/2014/04/21/max7219-rpi-clojure/ 
-* https://apps.twitter.com
+More to come
